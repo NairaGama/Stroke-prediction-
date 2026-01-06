@@ -23,4 +23,8 @@ Aplicação dos modelos de Regressão Logística e Random Forest para prever a p
 - Aplicação de técnicas de balanceamento
 - Aplicação dos algoritmos com dados balanceados
 - Avaliação final
+
+### Materias acadêmicos
+- Slides da apresentação
+- Artigo acadêmico elaborado como parte de atividade avaliativa em disciplina de graduação.
   
